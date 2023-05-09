@@ -1,0 +1,23 @@
+{
+  "name": "sample-react-pagination",
+  "version": "1.0.0",
+  "description": "React component for pagination. Can be used with tables grids etc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajiJSDevloper/sample-react-pagination.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "devDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "author": "ajiJSDevloper <ajianeesh6162@gmail.com>",
+  "license": "ISC"
+}
